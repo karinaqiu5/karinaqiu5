@@ -1,7 +1,7 @@
 ## Hi, I'm Karina
 
 Computer Science & Math student at Queen’s University.
-Interested in building practical tools and learning how systems actually work.
+Interested in data, development and building practical tools.
 
 ### Currently
 
