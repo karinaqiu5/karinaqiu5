@@ -7,7 +7,6 @@ Interested in data, development and building practical tools.
 
 * working on a Orbiit, a digital lost and found system
 * improving my backend skills (Python, APIs)
-* preparing for internships
 
 ### Tech
 
